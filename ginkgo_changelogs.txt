@@ -1,0 +1,46 @@
+PixelOS 
+by whyredFire and SarisanSe
+----------------
+Changelog
+----------------
+Device
+- Added Blur toggle in dev settings
+- Switched to qcom power hal and perf hal boosting
+- Update redfin fp to March
+- Wider and smoother notch cutout
+- Updated stock blobs from MIUI 21.3.3
+- Updated CAF blobs from LA.UM.9.11.r1-02800-NICOBAR.0
+- Updated redfin fp to march (fixed safetynet)
+- Fixed camera freeze in some social media apps
+- Fixed camera lens switching delay
+- Fixed voip/mic issues in some apps
+- KCAL improvements in xiaomi parts
+- Added vibration strength control in xiaomi parts
+- Switched to new QTI thermal HAL
+- Attempted to fix screen blackouts under sunlight/heat
+- Disabled KPTI for performance improvement
+- Reduced readahead to 128kB to improve storage performance
+- GPS config optimizations and fixes
+- Tuned cpusets for better performance
+- Improved rounded corners and fixed hide cutout option
+- Switched to android userspace LMKD
+- Added support for willow hwversion 18.31.0
+- Improved zram read/write performance
+- Switched to QuicksilveR v2.5 kernel
+- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.224 in kernel
+- Fast charging on chinese ginkgo variants maybe fixed
+- Misc optimizations and fixes
+
+Source 
+- OTA Updates 
+- Face Unlock 
+- March Security Patch
+- Add blur in power menu
+- Add Caffeine quick setting tile
+- Add android S style media player in quicksettings and lockscreen
+- Screenshot will follow system sound
+- Added bt indicator for headsets
+- Locked access to some QS tiles from lock screen without unlocking
+- Changed Screenshot Tile chip colour to follow system
+- Increased max password character limit to 64
+- Added 2 button navigation gestures
