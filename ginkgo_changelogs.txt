@@ -27,13 +27,13 @@ Device
 - Added support for willow hwversion 18.31.0
 - Improved zram read/write performance
 - Switched to QuicksilveR v2.5 kernel
-- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.224 in kernel
+- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.223 in kernel
 - Fast charging on chinese ginkgo variants maybe fixed
+- Reduced minimum brighness 
 - Misc optimizations and fixes
 
 Source 
-- OTA Updates 
-- Face Unlock 
+- OTA Updates  
 - March Security Patch
 - Add blur in power menu
 - Add Caffeine quick setting tile
