@@ -1,0 +1,33 @@
+PixelOS 
+by Twel12
+------------------------------
+Changelog
+---------------------
+10 March 2021
+------------
+ 1. Updated to March Security Patch
+ 2. Updated Fingerprint to Redfin 5 (March)
+ 2. Fixed Screen off fod
+ 3. Improved FOD code
+ 4. Changed to Cyan Pressed FOD Colour
+ 5. Changed systemui Blur appearance
+ 6. Fixed Some Wakelock and log spam
+ 7. Fixed Camera crash on startup (If Using Google Pixel 5 prop camera wont make weird noises now and just instead pop-up peacefully now and retract in 10-20 seconds)
+ 8. Added Pop-up camera callibration
+ 9. Changed to Paranoid Face Unlock with more options 
+10. Added AOD , Sync , Caffiene QS TILE
+11. Screenshot will follow system sound
+12. Added bt indicator for headsets
+13. Changed to QTI BT
+14. Locked access to some QS tiles from lock screen without unlocking
+15. Changed Screenshot Tile chip colour to follow system
+16. Increased max password character limit to 64
+17. Reduced Screenshot dismiss delay to 3 second
+18. Allowed SBC as HD audio codec in bluetooth section
+19. Implemented Aggressive Battery saver
+20. Added 2 button navigation gestures
+21. Added libperfm for smoothness
+22. Some PixelExperience Changes of March Patch
+23. Fixed some super duper rare app screen loop
+24. Fixed FOD icon being tilted on lock screen when in landscape mode
+25. New Music Player UI in QS and lock screen
