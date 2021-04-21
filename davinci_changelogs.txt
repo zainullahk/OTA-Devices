@@ -3,7 +3,8 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-19 April 2021
+21April 2021
 ------------
-1. Fix Stereo Sound
-2. Added Customisable Gesture Bar Length
+1. Fix wrong OTA
+2. Added Option to disable night light on lock screen for FOD
+3. Fixed Low Mic Input
