@@ -3,8 +3,9 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-21April 2021
+6th May 2021
 ------------
-1. Fix wrong OTA
-2. Added Option to disable night light on lock screen for FOD
-3. Fixed Low Mic Input
+1. May security patch
+2. Fixed broken preview of Fluid Clock
+3. Changed Mic Value for some balance
+4. Switched to Vantom as default Kernel
