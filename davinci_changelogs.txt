@@ -3,7 +3,7 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-7 May 2021
+9 May 2021
 ------------
-1.May Security Patch
-2.Fixed Some log spam
+1.Tweaked Mic Volume
+2.Fixed ALL QS Tiles Crash (Finally Bug Free)
