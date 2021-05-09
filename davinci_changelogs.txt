@@ -3,7 +3,7 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-8th May 2021
+9th May 2021
 ------------
-1. Arian Kernel again(cause i forgot vantom)
-2. Fixed Low Mic volume in apps
+1. Fixed AOD (Because im dumb)
+2. Fixed SystemUI crash when pressing bt icon on volume slider
