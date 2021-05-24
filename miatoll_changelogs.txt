@@ -1,0 +1,12 @@
+PixelishExperience (24/05/2021)
+by NOTABOT
+----------------
+Changelog
+----------------
+- Switched To Prebuilt Audio Hals
+- Voip Echo Fixed
+- Using OOS Camera Provider
+- Boosted Colour by Default
+- Switched to Perf+ Kernel
+- Battery Optimization
+- ZRam Improvement
