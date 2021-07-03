@@ -3,7 +3,14 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-9 May 2021
+3 July 2021
 ------------
 1.Tweaked Mic Volume
-2.Fixed ALL QS Tiles Crash (Finally Bug Free)
+2.Included google fit in pixel props for pixel exclusive stuff
+3.Increased vibration
+4.Fixed missing ambient display options
+5.June security patch merged
+6.New DRM supported
+7.Disabled pop-up sound by default
+8.Tuned brightness slider
+9.Tuned media player
