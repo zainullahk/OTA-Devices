@@ -1,9 +1,110 @@
 PixelOS 
-by whyredFire and SarisanSe
+by whyredFire and Ashwin
 ----------------
-Changelog
+Changelog (06/07/2021)
 ----------------
-Device
+
+> Source Changelog:
+- June security patch is merged
+- Gapps and Translations have been updated
+- Miscellaneous optimizations and fixes
+
+> Device Changelog:
+- Added IFAA/mplipay blobs 
+- Switch to qti health implementation
+- Move parts under system
+- Stock blobs updated from MIUI 21.7.5
+- Fixed tiktok, QQ and other apps crash due to vulkan
+- Fixed xiaomi parts KCAL settings out-of-the-box
+- Added LED indicator for offline charging
+- Reduce schedtune boosting for lesser heat
+- Freed some RAM from useless virtual framebuffer
+- Switched to QTI health implementation
+- Branded MIUI Camera 
+- Various updates in kernel (Linux v4.14.238, CAF tag LA.UM.9.11.r1-04300-NICOBAR.QSSI12.0, scheduler tweaks and more)
+
+> Kernel Changelog:
+- Upstreamed to v4.14.238
+- Merged LA.UM.9.11.r1-04300-NICOBAR.QSSI12.0 CAF tag
+- Fully disabled coresight debugging
+- Removed useless tracing in GPU drivers
+- Removed dynamic schedtune boost
+- Force actual top-app tasks to big cluster
+- Added back 864mhz in little cluster
+- Fixed aux cams on some new ginkgo variants
+- Bunch of scheduler & binder backports
+- CAF fixes & improvements from SDX55 tags
+- Moved some important tasks to big cluster
+- SMB5 (charger driver) tweaks
+- Schedutil governor tweaks
+- Enabled write back caching for storage
+- Use little cluster for adsprpc qos
+- Added FUSE shortcuit for better storage performance
+- Added automatic compaction for ZRAM
+- Increased vmstat interval to 30s
+- Reduced debugging overhead
+- Misc optimizations and fixes
+
+----------------
+Changelog (13/05/2021)
+----------------
+
+> Device Changes
+- Updated stock blobs from MIUI 21.4.28
+- Fixed random reboots in suspend and 4g usage
+- Fixed google play system updates
+- Imported camera blobs from Pie for much better camera performance
+- Improved app launches and i/o
+- Updated Pixel 5 fingerprint to May
+- Dropped Vibration strength controls
+- Fixed offline charging animation
+- Added fingerprint shutter in MiuiCamera
+- Fixed 5ghz wifi on android 11 firmware
+- Improved 5ghz wifi signal tolerance
+- Improved and fine tuned auto brightness algorithm
+- Fixed KCAL not applying on first boot
+- Reduced min cpu freq and boosts for battery improvement
+- Tuned cpusets and scheduler for better performance
+- Added missing ANT+ hal, few rootdir tweaks
+- Fixes "Device is too hot" issue in apps Like Gphotos
+- Fixed HWC crash on boot
+- Updated/Added missed wifi configs
+- Updated WifiOverlay from LA.UM.9.1.r1-09100-SMxxx0.0
+- Updated GPS configs to LA.UM.9.11.r1-03200-NICOBAR.0
+- Performance improvements and misc. fixes
+
+> Kernel Changes
+- Upstreamed to v4.14.232
+- Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF tag
+- Improved scheduler performance and stability
+- Fixed deep sleep issues and random reboots
+- Switch few drivers to async probe (faster bootup)
+- Thermal drivers updates from 4.19
+- Disabled PAN emulation for improved performance
+- Disabled unused erratum fixes
+- Updated speaker amp driver from ginkgo-q-oss
+- Disabled schedtune util boost
+- Disabled some unwanted debugging
+- Enabled monitor mode for wifi
+- TCP ipv4/ipv6 optimizations
+- Improved memory management and f2fs
+- Improved performance in games that use Unity Engine
+- Added a lower efficient CPU frequency to save power
+- Misc optimizations and fixes
+
+> Source Changes
+- May Security Patch
+- Black background in power menu
+- Fixed OTA Updater
+- Updated translations
+- Optimized offline charging animation
+- Performance and stability improvements
+
+----------------
+Changelog (11/03/2021)
+----------------
+
+> Device
 - Added Blur toggle in dev settings
 - Switched to qcom power hal and perf hal boosting
 - Update redfin fp to March
@@ -32,7 +133,7 @@ Device
 - Reduced minimum brighness 
 - Misc optimizations and fixes
 
-Source 
+> Source 
 - OTA Updates  
 - March Security Patch
 - Add blur in power menu
