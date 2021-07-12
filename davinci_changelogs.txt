@@ -3,14 +3,9 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-3 July 2021
+12 July 2021
 ------------
-1.Tweaked Mic Volume
-2.Included google fit in pixel props for pixel exclusive stuff
-3.Increased vibration
-4.Fixed missing ambient display options
-5.June security patch merged
-6.New DRM supported
-7.Disabled pop-up sound by default
-8.Tuned brightness slider
-9.Tuned media player
+1.July Security Patch
+2.Fixed Tiktok, wechat and some app crashing
+3.New System Updates UI
+4.Decreased mic Volume to prevent background sound
