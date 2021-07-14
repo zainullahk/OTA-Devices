@@ -3,7 +3,13 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-9th May 2021
+14th May 2021
 ------------
-1. Fixed AOD (Because im dumb)
-2. Fixed SystemUI crash when pressing bt icon on volume slider
+1. Increased vibration
+2. July Security Patch
+3. Added Android 12 clocks
+4. Set Mic volume back to 89(following other roms)
+5. Changed Updater UI
+6. Fixed TikTOK and some other apps crash
+7. NEW DRM Blobs
+8. Set pop-up sound to none by default
