@@ -3,7 +3,7 @@ by Twel12
 ------------------------------
 Changelog
 ---------------------
-14th May 2021
+14th July 2021
 ------------
 1. Increased vibration
 2. July Security Patch
