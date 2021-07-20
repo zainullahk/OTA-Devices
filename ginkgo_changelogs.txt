@@ -1,31 +1,36 @@
-PixelishExperience (12/05/2021)
+PixelishExperience
 by whyredFire and Ashwin
 ----------------
-Changelog
+Changelog (20 July 2021)
 ----------------
-Device Changelog
-- Fixed offline charging animation
-- Updated Redfin may fingerprint
-- Enabled iorapd (improved app launches and i/o)
-- Upstreamed kernel to 4.14.232 LTS
-- Added fingerprint shutter in MiuiCamera
-- Fixed 5ghz wifi on android 11 firmware
-- Improved 5ghz wifi signal tolerance
-- Improved and fine tuned auto brightness algorithm
-- Fixed KCAL not applying on first boot
-- Reduced min cpu freq and boosts for battery improvement
-- Tuned cpusets and scheduler for better performance
-- Merged tag LA.UM.9.11.r1-03900-NICOBAR.0 into kernel
-- Added missing ANT+ hal, few rootdir tweaks
-- Fixes "Device is too hot" issue in apps Like Gphotos
-- Fixed HWC crash on boot
-- Updated/Added missed wifi configs
-- Updated WifiOverlay from LA.UM.9.1.r1-09100-SMxxx0.0
-- Updated GPS configs to LA.UM.9.11.r1-03200-NICOBAR.0
-- Performance improvements and misc. fixes
+- Fixed tiktok, QQ and other apps crash due to vulkan
+- Added LED indicator for offline charging
+- Reduce schedtune boosting for lesser heat
+- Freed some RAM from useless virtual framebuffer
+- Switched to QTI health implementation
+- Hide root better
+- Bring back notch cutout overlays (in dev options)
+- Update blobs to LA.UM.9.11.r1-03900-NICOBAR.0
+- Fixed random reboots for some users
+- Stock blobs updated from MIUI 21.7.13
+- Upstreamed kernel to 4.14.239 LTS
+- Merged CAF Tag LA.UM.9.1.r1-10600-SMxxx0.0
+- Fully disabled coresight debugging
+- Removed useless tracing in GPU drivers
+- Removed dynamic schedtune boost
+- Force actual top-app tasks to big cluster
+- Added back 864mhz in little cluster
+- Fixed aux cams on some new ginkgo variants
+- Bunch of scheduler & binder backports
+- CAF fixes & improvements from SDX55 tags
+- Moved some important tasks to big cluster
+- SMB5 (charger driver) tweaks
+- Schedutil governor tweaks
+- Enabled write back caching for storage
+- Use little cluster for adsprpc qos
+- Added FUSE shortcuit for better storage performance
+- Added automatic compaction for ZRAM
+- Increased vmstat interval to 30s
+- Reduced debugging overhead
+- Misc optimizations and fixes
 
-Source 
-- May Security Patch
-- Added tint for quicksetting tiles
-- Optimised offline charging animation
-- Other misc. changes
