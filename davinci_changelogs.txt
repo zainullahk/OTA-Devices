@@ -1,11 +1,4 @@
-PixelOS 
-by Twel12
-------------------------------
-Changelog
----------------------
-12 July 2021
-------------
-1.July Security Patch
-2.Fixed Tiktok, wechat and some app crashing
-3.New System Updates UI
-4.Decreased mic Volume to prevent background sound
+Implemented Adaptive AOD Brightness
+Added AOD brigthness mode option to choose from
+Fixed d2tw dead on new vantom
+
