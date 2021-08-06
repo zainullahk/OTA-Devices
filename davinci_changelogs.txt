@@ -1,4 +1,3 @@
-Implemented Adaptive AOD Brightness
-Added AOD brigthness mode option to choose from
-Fixed d2tw dead on new vantom
-Changed Default Kernel to Vantom
+Spoof Google Photos to Pixel 1
+August Security Patch
+Fixed Missing AOD switch directly in display-lock screen
