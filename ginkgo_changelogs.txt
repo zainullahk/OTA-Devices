@@ -1,6 +1,18 @@
 PixelOS 
 by whyredFire and Ashwin
 ----------------
+Changelog (08/08/2021)
+----------------
+- Aug Security Patch
+- Dropped XiaomiParts
+- Blur is smoother now
+- Updated stock blobs to global stable meme (V12.0.1.0.RCOMIXM)
+- Updated blobs to ginkgo: Update blobs to LA.UM.9.11.r1-04500-NICOBAR.0 
+- Fixup all wakeup source sysfs
+- Disable touch sounds by default
+- Address iorapd denials
+
+----------------
 Changelog (17/07/2021)
 ----------------
 - Hide root better
