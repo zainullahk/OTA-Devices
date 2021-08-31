@@ -1,8 +1,3 @@
-PixelOS 
-by whyredFire and Ashwin
-----------------
-Changelog (27/08/2021)
-----------------
 Fixed APN issue
 Switched back to default 392 DPI
 Implemented new face unlock implementation from Pixel Experience
