@@ -1,1 +1,4 @@
-
+Added Night Light
+Increased Vibration
+Faster OTA(Github Release)
+September Security Patch
