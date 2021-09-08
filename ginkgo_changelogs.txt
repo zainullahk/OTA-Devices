@@ -1,36 +1,14 @@
-PixelishExperience
-by whyredFire and Ashwin
-----------------
-Changelog (20 July 2021)
-----------------
-- Fixed tiktok, QQ and other apps crash due to vulkan
-- Added LED indicator for offline charging
-- Reduce schedtune boosting for lesser heat
-- Freed some RAM from useless virtual framebuffer
-- Switched to QTI health implementation
-- Hide root better
-- Bring back notch cutout overlays (in dev options)
-- Update blobs to LA.UM.9.11.r1-03900-NICOBAR.0
-- Fixed random reboots for some users
-- Stock blobs updated from MIUI 21.7.13
-- Upstreamed kernel to 4.14.239 LTS
-- Merged CAF Tag LA.UM.9.1.r1-10600-SMxxx0.0
-- Fully disabled coresight debugging
-- Removed useless tracing in GPU drivers
-- Removed dynamic schedtune boost
-- Force actual top-app tasks to big cluster
-- Added back 864mhz in little cluster
-- Fixed aux cams on some new ginkgo variants
-- Bunch of scheduler & binder backports
-- CAF fixes & improvements from SDX55 tags
-- Moved some important tasks to big cluster
-- SMB5 (charger driver) tweaks
-- Schedutil governor tweaks
-- Enabled write back caching for storage
-- Use little cluster for adsprpc qos
-- Added FUSE shortcuit for better storage performance
-- Added automatic compaction for ZRAM
-- Increased vmstat interval to 30s
-- Reduced debugging overhead
-- Misc optimizations and fixes
-
+September Security Patch
+UI is much smoother now overall
+Add support for LCD features, HBM and CABC
+Added privacy indicators
+Expand advanced option in setting menus by default
+Vibration intensities are now more uniform  
+Implemented vibration control under Sound settings
+Fine tuned schedutil rate limits
+Checkout audio policy config from MIUI Global Stable
+Remove media player top divider
+Make QS font bolder and bigger
+Updated fp/desc from Pixel 5
+Upstreamed kernel to 4.14.245
+Misc performance improvements

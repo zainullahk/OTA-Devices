@@ -1,1 +1,15 @@
-{"error":false,"maintainers":[{"main_maintainer":false,"github_username":"whyredFire","name":"whyredFire"}],"donate_url":"","website_url":"https://sourceforge.net/projects/pixelos-notsopixel/files/Pixelish/Ginkgo-Willow/","datetime":1626699120,"filename": "PixelishExperience_ginkgo-11.0-20210719-1252-gLiTcHeD.zip","id": "acda7e71847566869600907a7de66177","size":1408880776 ,"url":"https://sourceforge.net/projects/pixelos-notsopixel/files/Pixelish/Ginkgo-Willow/PixelishExperience_ginkgo-11.0-20210719-1252-gLiTcHeD.zip/download","version": "eleven","filehash":"acda7e71847566869600907a7de66177","is_incremental":false,"has_incremental":false}
+{
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"whyredFire","name":"whyredFire"}],
+    "donate_url":"",
+    "website_url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "datetime":1631093375,
+    "filename": "PixelishExperience_ginkgo-11.0-20210908-0931-gLiTcHeD.zip",
+    "id": "8399eba9c3bcd717344f091ce2fba948",
+    "size":1416412612 ,
+    "url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/download/20210908/PixelishExperience_ginkgo-11.0-20210908-0931-gLiTcHeD.zip",
+    "version": "eleven",
+    "filehash":"8399eba9c3bcd717344f091ce2fba948",
+    "is_incremental":false,
+    "has_incremental":false
+}
