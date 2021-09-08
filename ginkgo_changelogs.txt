@@ -1,8 +1,14 @@
-Fixed APN issue
-Switched back to default 392 DPI
-Implemented new face unlock implementation from Pixel Experience
-Align media player buttons properly in quick settings media player
-Make night light transition more gradual
-Miscellaneous optimisations and fixes
-
-If OTA Updates fails to install, you can dirty flash the build manually.
+September Security Patch
+UI is much smoother now overall
+Add support for LCD features, HBM and CABC
+Added privacy indicators
+Expand advanced option in setting menus by default
+Vibration intensities are now more uniform  
+Implemented vibration control under Sound settings
+Fine tuned schedutil rate limits
+Checkout audio policy config from MIUI Global Stable
+Remove media player top divider
+Make QS font bolder and bigger
+Updated fp/desc from Pixel 5
+Upstreamed kernel to 4.14.245
+Misc performance improvements
