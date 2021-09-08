@@ -1,1 +1,15 @@
-{"error":false,"maintainers":[{"main_maintainer":false,"github_username":"Twel12","name":"Twel12"}],"datetime":1629990710,"filename": "PixelOS_sweet-11.0-20210826-1514.zip","id": "74b025ce3c0f86208fe9340f9d2036df","size":1192720178 ,"url":"https://sourceforge.net/projects/pixelos-notsopixel/files/Pixel_OS/Sweet/PixelOS_sweet-11.0-20210826-1514.zip/download","version": "eleven","filehash":"74b025ce3c0f86208fe9340f9d2036df","is_incremental":false,"has_incremental":false}
+{
+        "error":false,
+        "maintainers":[{"main_maintainer":false,"github_username":"Twel12","name":"Twel12"}],
+        "donate_url":"",
+        "website_url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+        "datetime":1631121934,
+        "filename": "PixelOS_sweet-11.0-20210908-1725.zip",
+        "id": "9d46e2a75f99efb22c52b237a9e7479d",
+        "size":1193932332 ,
+        "url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/download/PixelOS_sweet-11.0-20210908-1725.zip/PixelOS_sweet-11.0-20210908-1725.zip",
+        "version": "eleven",
+        "filehash":"9d46e2a75f99efb22c52b237a9e7479d",
+        "is_incremental":false,
+        "has_incremental":false
+    }
