@@ -1,1 +1,5 @@
-
+Updated Kernel (Vantom)
+Fixed Netflix Jittery Playback
+Enabled Deep sleep with QPower for wifi
+September Security Patch
+Changed Face Unlock Implimentation
