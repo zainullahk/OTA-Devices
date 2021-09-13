@@ -1,1 +1,15 @@
-{"error":false,"maintainers":[{"main_maintainer":false,"github_username":"Twel12","name":"Twel12"}],"donate_url":"","website_url":"https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/","datetime":1628242247,"filename": "PixelOS_davinci-11.0-20210806-0933.zip","id": "90d5335b08437251e192b8d7cc3f3a93","size":1524186885 ,"url":"https://sourceforge.net/projects/pixelos-notsopixel/files/Pixel_OS/Davinci/PixelOS_davinci-11.0-20210806-0933.zip/download","version": "eleven","filehash":"90d5335b08437251e192b8d7cc3f3a93","is_incremental":false,"has_incremental":false}
+{
+        "error":false,
+        "maintainers":[{"main_maintainer":false,"github_username":"Twel12","name":"Twel12"}],
+        "donate_url":"",
+        "website_url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+        "datetime":1631512821,
+        "filename": "PixelOS_davinci-11.0-20210913-0600.zip",
+        "id": "caa46dd5aecec3341c45b977baf1db26",
+        "size":1520900103 ,
+        "url":"https://github.com/PixelOS-Pixelish/OTA-Devices/releases/download/PixelOS_davinci-11.0-20210913-0600.zip/PixelOS_davinci-11.0-20210913-0600.zip",
+        "version": "eleven",
+        "filehash":"caa46dd5aecec3341c45b977baf1db26",
+        "is_incremental":false,
+        "has_incremental":false
+    }

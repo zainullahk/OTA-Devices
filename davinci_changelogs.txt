@@ -1,3 +1,1 @@
-Spoof Google Photos to Pixel 1
-August Security Patch
-Fixed Missing AOD switch directly in display-lock screen
+
