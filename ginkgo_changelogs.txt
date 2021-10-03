@@ -1,14 +1,10 @@
-September Security Patch
-UI is much smoother now overall
-Add support for LCD features, HBM and CABC
-Added privacy indicators
-Expand advanced option in setting menus by default
-Vibration intensities are now more uniform  
-Implemented vibration control under Sound settings
-Fine tuned schedutil rate limits
-Checkout audio policy config from MIUI Global Stable
-Remove media player top divider
-Make QS font bolder and bigger
-Updated fp/desc from Pixel 5
-Upstreamed kernel to 4.14.245
-Misc performance improvements
+Updated vibration strength values
+Update KCAL preview from MIUI 12
+Updated Clear Speaker audo from MIUI 12
+Added headphones warning for Clear Speaker
+Enable USB Fast Charging by default
+Disable Notification LED on willow
+Added HeadsUp QS Tile
+Add sliders for color balance adjustment via ColorDisplayManager
+Removed TM from kernel name
+Updated translations
