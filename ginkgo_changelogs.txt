@@ -1,10 +1,3 @@
-Updated vibration strength values
-Update KCAL preview from MIUI 12
-Updated Clear Speaker audo from MIUI 12
-Added headphones warning for Clear Speaker
-Enable USB Fast Charging by default
-Disable Notification LED on willow
-Added HeadsUp QS Tile
-Add sliders for color balance adjustment via ColorDisplayManager
-Removed TM from kernel name
-Updated translations
+October Patch
+Fixed status bar padding
+Fixed google assistant not working properly for some users
