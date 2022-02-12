@@ -12,15 +12,10 @@
             "main_maintainer": true,
             "github_username": "geek0609",
             "name": "Ashwin DS"
-        },
-        {
-            "main_maintainer": false,
-            "github_username": "whyredfire",
-            "name": "test"
         }
     ],
     "donate_url": "",
-    "website_url": "https://github.com/PixelOS-Pixelish/OTA-Devices/releases/",
+    "website_url": "https://github.com/PixelOS-Pixelish",
     "news_url": "https://t.me/PixelOSOfficial",
     "forum_url": ""
 }
