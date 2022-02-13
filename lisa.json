@@ -1,0 +1,26 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "",
+    "datetime": "",
+    "size": "",
+    "url": "",
+    "filehash": "",
+    "id": "",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "https://github.com/bheatleyyy",
+            "name": "Sugakesshaa"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "https://github.com/whyredfire",
+            "name": "Karan Parashar"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://github.com/PixelOS-Pixelish",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-23-01-2022.4392297/"
+}
