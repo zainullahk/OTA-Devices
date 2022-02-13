@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "",
-    "datetime": "",
-    "size": "",
-    "url": "",
-    "filehash": "",
-    "id": "",
+    "filename": "PixelOS_lisa-12.0-20220122-1511.zip",
+    "datetime": "1644755349",
+    "size": "2469606195",
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.0-20220122-1511.zip/download",
+    "filehash": "cc71cf84963069d0c40173a121e4fc9a",
+    "id": "cc71cf84963069d0c40173a121e4fc9a",
     "maintainers": [
         {
             "main_maintainer": false,
